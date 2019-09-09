@@ -1,5 +1,6 @@
 # TimeMachine-Exclusions
-![icon](006-timeline.icns "app")
+
+<img src="006-timeline.png" height="50px" width="50px">
 
 Simple automator app for list exclusions form TimeMachine backups
 
